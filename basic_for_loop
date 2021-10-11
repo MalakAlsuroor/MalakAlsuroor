@@ -19,10 +19,10 @@ for b in range(5, 1001, 5):
 
 
 for c in range(1, 101):
-    if c % 10 == 0:
-        print("Divisible by 10")
-    elif c % 5 == 0:
-        print("Divisible by 5")
+    if c % 5 == 0:
+        print("coding")
+    elif c % 10 == 0:
+        print("coding dojo")
     else:
         print(c)
 
